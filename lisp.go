@@ -3,7 +3,7 @@ package lisp
 import (
 	"bufio"
 	"fmt"
-	"github.com/andiogenes/lisp/parser"
+	"github.com/andiogenes/lisp-101/parser"
 	"log"
 	"os"
 )
